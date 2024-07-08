@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.wMeITwKFeCGA6eqXotIdtAHaED&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+ .yellow{
+     font-size: 50px;
+     font-style: italic;
+     display: flex;
+     justify-content: center;
+ }
+ ul{
+     list-style-type: none;
+     display: flex;
+     justify-content: center;
+ }
+ li{
+     display: flex;
+     justify-content: space-between;
+ }
+ p{
+     display: flex;
+     justify-content: center;
+     color:white;
+ }
